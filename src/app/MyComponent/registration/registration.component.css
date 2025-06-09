@@ -1,0 +1,26 @@
+.field{
+    width:80%;
+  margin-left:80px;
+    
+   
+}
+.card{
+    width: 70%;
+    margin: auto;
+    background-color: #f8f9fa;
+    
+}
+
+.card h1{
+    text-align: center;
+    margin-top: 10px;
+}
+.submitbutton{
+  text-align: center; 
+}
+
+.card button{
+    margin: 10px;
+}
+
+
