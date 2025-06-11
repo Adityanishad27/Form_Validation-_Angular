@@ -20,11 +20,12 @@ import { RegistartionServicesService } from './Services/registartion-services.se
 
 
 
+
 @NgModule({
   declarations: [
     AppComponent,
     NavbarComponent,
-    RegistrationComponent,],
+    RegistrationComponent],
   imports: [
     
     BrowserModule,
